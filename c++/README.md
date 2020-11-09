@@ -1,4 +1,0 @@
-
-# Deep Learning with C++
-
-
