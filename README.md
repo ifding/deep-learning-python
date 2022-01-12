@@ -8,6 +8,7 @@
 - [Deep Learning Basics](./resources/deep-learning.md)
 - [Components of Autonomous Driving System](./resources/autonomous-driving.md)
 - [Datasets](./resources/datasets.md)
+- [Train your own object detector with Faster-RCNN & PyTorch](./faster-rcnn-tutorial)
 
 
 ## Computer Vision and Deep Learning
