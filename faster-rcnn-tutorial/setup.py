@@ -22,7 +22,7 @@ setuptools.setup(
         'python-dotenv',        
         'albumentations==0.5.2',
         'pytorch-lightning==1.3.5',
-        'torch==1.8.1',
+        'torch==2.13.0',
         'torchvision==0.9.1',
         'torchsummary==1.5.1',
         'torchmetrics==0.2.0'
